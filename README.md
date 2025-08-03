@@ -1,4 +1,4 @@
-# placement-predictor-app
+# placement predictor app
 
 This project predicts whether a student is likely to be placed based on academic and personal attributes. The model is trained using **supervised machine learning (Logistic Regression)** and deployed on the web using Render.
 
@@ -120,3 +120,4 @@ placement-predictor-app/
 [Click here to view the deployed app](https://placement-predictor-app-r0ho.onrender.com/)
 
 ---
+
